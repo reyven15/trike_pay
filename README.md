@@ -31,3 +31,5 @@ soroban contract build
  https://stellar.expert/explorer/testnet/contract/CASZ5I3MA4C7F567WW6T4A3OEXCI2BFINPMUVKWEO35GPDW6FV5XCX44
 
  Contract ID: CASZ5I3MA4C7F567WW6T4A3OEXCI2BFINPMUVKWEO35GPDW6FV5XCX44
+
+![Screenshot of the application](Screenshot-2026-05-26-121730.png)
