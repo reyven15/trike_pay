@@ -1,5 +1,5 @@
 <img width="1365" height="767" alt="Screenshot 2026-05-26 182314" src="https://github.com/user-attachments/assets/cf58a838-01ea-49ee-9431-c29a43a9d0df" />
-<img width="1365" height="767" alt="Screenshot 2026-05-26 182314" src="https://github.com/user-attachments/assets/1f6a6210-a2d0-459e-9ea9-4a65aae570d4" />
+
 # TrikePay PH
 **Instant, change-free fare payments for tricycle commuters in the Philippines.**
 
@@ -34,5 +34,5 @@ soroban contract build
 
  Contract ID: CASZ5I3MA4C7F567WW6T4A3OEXCI2BFINPMUVKWEO35GPDW6FV5XCX44
 
-![alt text](<../Screenshot 2026-05-26 182314.jpg>)
+<img width="1365" height="767" alt="Screenshot 2026-05-26 182314" src="https://github.com/user-attachments/assets/1f6a6210-a2d0-459e-9ea9-4a65aae570d4" />
 
