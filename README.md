@@ -32,4 +32,5 @@ soroban contract build
 
  Contract ID: CASZ5I3MA4C7F567WW6T4A3OEXCI2BFINPMUVKWEO35GPDW6FV5XCX44
 
-![Screenshot of the application](Screenshot-2026-05-26-121730.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/32d30d92-f255-4bf8-88dd-3a8354920f40" />
+
